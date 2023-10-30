@@ -1,4 +1,4 @@
-package com.alibou.security.book;
+package com.balabyeki.interview.book;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

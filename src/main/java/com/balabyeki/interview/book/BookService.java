@@ -1,4 +1,4 @@
-package com.alibou.security.book;
+package com.balabyeki.interview.book;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

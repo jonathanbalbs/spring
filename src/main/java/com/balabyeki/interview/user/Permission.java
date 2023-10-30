@@ -1,4 +1,4 @@
-package com.alibou.security.user;
+package com.balabyeki.interview.user;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

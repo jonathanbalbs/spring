@@ -1,4 +1,4 @@
-package com.alibou.security.config;
+package com.balabyeki.interview.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeIn;

@@ -1,8 +1,7 @@
-package com.alibou.security.config;
+package com.balabyeki.interview.config;
 
-import com.alibou.security.auditing.ApplicationAuditAware;
-import com.alibou.security.user.UserRepository;
-import jakarta.persistence.criteria.CriteriaBuilder;
+import com.balabyeki.interview.auditing.ApplicationAuditAware;
+import com.balabyeki.interview.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

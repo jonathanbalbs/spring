@@ -1,6 +1,6 @@
-package com.alibou.security.auth;
+package com.balabyeki.interview.auth;
 
-import com.alibou.security.user.Role;
+import com.balabyeki.interview.user.Role;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

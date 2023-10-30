@@ -13,10 +13,10 @@ import static com.balabyeki.interview.user.Role.MANAGER;
 
 @SpringBootApplication
 @EnableJpaAuditing(auditorAwareRef = "auditorAware")
-public class SecurityApplication {
+public class SpringApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecurityApplication.class, args);
+		SpringApplication.run(SpringApp.class, args);
 	}
 
 	@Bean

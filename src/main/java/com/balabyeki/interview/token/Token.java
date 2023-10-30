@@ -1,6 +1,6 @@
-package com.alibou.security.token;
+package com.balabyeki.interview.token;
 
-import com.alibou.security.user.User;
+import com.balabyeki.interview.user.User;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

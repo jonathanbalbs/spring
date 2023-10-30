@@ -1,6 +1,6 @@
-package com.alibou.security.auditing;
+package com.balabyeki.interview.auditing;
 
-import com.alibou.security.user.User;
+import com.balabyeki.interview.user.User;
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.authentication.AnonymousAuthenticationToken;
 import org.springframework.security.core.Authentication;
